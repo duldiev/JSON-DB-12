@@ -1,0 +1,365 @@
+{
+  "user": [
+    {
+      "id": 101,
+      "username": "LaTericElE",
+      "password": "LaTerpass",
+      "email": "DGEACEnTan@yahoo.com"
+    },
+    {
+      "id": 102,
+      "username": "otinAiRdiO",
+      "password": "otinApass",
+      "email": "GIVALAnAlD@mail.ru"
+    },
+    {
+      "id": 103,
+      "username": "ptIONfACti",
+      "password": "ptIONpass",
+      "email": "kIMINDrISE@gmail.com"
+    },
+    {
+      "id": 104,
+      "username": "MobERveRSy",
+      "password": "MobERpass",
+      "email": "BlUMIaLstI@mail.ru"
+    },
+    {
+      "id": 105,
+      "username": "ToreCUReSE",
+      "password": "ToreCpass",
+      "email": "Edmigypert@gmail.ru"
+    },
+    {
+      "id": 106,
+      "username": "AlykneyENe",
+      "password": "Alyknpass",
+      "email": "tILeRbitha@yandex.ru"
+    },
+    {
+      "id": 107,
+      "username": "RiuscardYE",
+      "password": "Riuscpass",
+      "email": "FleaRveRVI@yandex.ru"
+    },
+    {
+      "id": 108,
+      "username": "culGARIdEt",
+      "password": "culGApass",
+      "email": "ganeXERAnG@yandex.ru"
+    },
+    {
+      "id": 109,
+      "username": "IbLEvanYME",
+      "password": "IbLEvpass",
+      "email": "proPjaCYPe@gmail.com"
+    },
+    {
+      "id": 110,
+      "username": "TYcHIgnoto",
+      "password": "TYcHIpass",
+      "email": "ShAwBonGuI@gmail.com"
+    }
+  ],
+  "iphone": [
+    {
+      "Generation": "iPhone 12 Pro Max",
+      "Color": ["Silver", "Gold", "Pacific Blue", "Graphite"],
+      "Models": [
+        {
+          "Storage": "128 GB",
+          "Price": 649890,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fill:540/bg:f6f6f6/q:100/plain/s3://catalog-products/201014082231556695/201214150019203822.png@webp"
+        },
+        {
+          "Storage": "256 GB",
+          "Price": 709890,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fill:540/bg:f6f6f6/q:100/plain/s3://catalog-products/201014082231556695/201214150019203822.png@webp"
+        },
+        {
+          "Storage": "512 GB",
+          "Price": 854890,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fill:540/bg:f6f6f6/q:100/plain/s3://catalog-products/201014082231556695/201214150019203822.png@webp"
+        }
+      ]
+    },
+    {
+      "Generation": "iPhone 12 Pro",
+      "Color": ["Silver", "Gold", "Pacific Blue", "Graphite"],
+      "Models": [
+        {
+          "Storage": "128 GB",
+          "Price": 649890,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fill:540/bg:f6f6f6/q:100/plain/s3://catalog-products/201014082233895731/201106080036578115.png@webp"
+        },
+        {
+          "Storage": "256 GB",
+          "Price": 709890,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fill:540/bg:f6f6f6/q:100/plain/s3://catalog-products/201014082233895731/201106080036578115.png@webp"
+        },
+        {
+          "Storage": "512 GB",
+          "Price": 854890,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fill:540/bg:f6f6f6/q:100/plain/s3://catalog-products/201014082233895731/201106080036578115.png@webp"
+        }
+      ]
+    },
+    {
+      "Generation": "iPhone 12",
+      "Color": ["White", "Black", "Blue", "Green", "Red"],
+      "Models": [
+        {
+          "Storage": "64 GB",
+          "Price": 469890,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/201014082212022723/201106080028688696.jpg@webp"
+        },
+        {
+          "Storage": "128 GB",
+          "Price": 499890,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/201014082212022723/201106080028688696.jpg@webp"
+        },
+        {
+          "Storage": "256 GB",
+          "Price": 569890,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/201014082212022723/201106080028688696.jpg@webp"
+        }
+      ]
+    },
+    {
+      "Generation": "iPhone 12 mini",
+      "Color": ["White", "Black", "Blue", "Green", "Red"],
+      "Models": [
+        {
+          "Storage": "64 GB",
+          "Price": 399890,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/201014082220844992/201106080025316519.jpg@webp"
+        },
+        {
+          "Storage": "128 GB",
+          "Price": 429890,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/201014082220844992/201106080025316519.jpg@webp"
+        },
+        {
+          "Storage": "256 GB",
+          "Price": 509890,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/201014082220844992/201106080025316519.jpg@webp"
+        }
+      ]
+    },
+    {
+      "Generation": "iPhone 11 Pro Max",
+      "Color": ["Gold", "Midnight Green", "Silver", "Space Gray"],
+      "Models": [
+        {
+          "Storage": "64 GB",
+          "Price": 548790,
+          "img": "https://idsay.ru/img/2020/march/top-5-smartfonov-s-neudachnymi-nazvaniyami_13-03-20-23-52-44.jpg"
+        },
+        {
+          "Storage": "256 GB",
+          "Price": 595100,
+          "img": "https://idsay.ru/img/2020/march/top-5-smartfonov-s-neudachnymi-nazvaniyami_13-03-20-23-52-44.jpg"
+        },
+        {
+          "Storage": "512 GB",
+          "Price": 717990,
+          "img": "https://idsay.ru/img/2020/march/top-5-smartfonov-s-neudachnymi-nazvaniyami_13-03-20-23-52-44.jpg"
+        }
+      ]
+    },
+    {
+      "Generation": "iPhone 11 Pro",
+      "Color": ["Gold", "Midnight Green", "Silver", "Space Gray"],
+      "Models": [
+        {
+          "Storage": "64 GB",
+          "Price": 436899,
+          "img": "https://www.dateks.lv/images/pic/2400/2400/568/579.jpg"
+        },
+        {
+          "Storage": "256 GB",
+          "Price": 537777,
+          "img": "https://www.dateks.lv/images/pic/2400/2400/568/579.jpg"
+        },
+        {
+          "Storage": "512 GB",
+          "Price": 569900,
+          "img": "https://www.dateks.lv/images/pic/2400/2400/568/579.jpg"
+        }
+      ]
+    },
+    {
+      "Generation": "iPhone 11",
+      "Color": ["Black", "Green", "Red", "Purple", "White", "Yellow"],
+      "Models": [
+        {
+          "Storage": "64 GB",
+          "Price": 359890,
+          "img": "https://karaganda.alfa.kz/files/alfa/messages/1/4/1/7/3/14173198-iphone11-purple-select-2019.png"
+        },
+        {
+          "Storage": "128 GB",
+          "Price": 389890,
+          "img": "https://karaganda.alfa.kz/files/alfa/messages/1/4/1/7/3/14173198-iphone11-purple-select-2019.png"
+        },
+        {
+          "Storage": "256 GB",
+          "Price": 449890,
+          "img": "https://karaganda.alfa.kz/files/alfa/messages/1/4/1/7/3/14173198-iphone11-purple-select-2019.png"
+        }
+      ]
+    }
+  ],
+  "macbook": [
+    {
+      "Generation" :"MacBook Pro 13",
+      "Color": ["Silver", "Space Grey"],
+      "Models":[
+      	{
+      	   "Storage":"256 GB",
+      	   "Price":715990,
+           "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/190522064613950197/190813070019394169.jpg@webp"
+      	},
+      	{
+      	   "Storage":"512 GB",
+      	   "Price":825990,
+           "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/190522064613950197/190813070019394169.jpg@webp"
+      	}
+      ]
+    },
+    {
+      "Generation": "MacBook Pro 15",
+      "Color": ["Space Grey", "Silver"],
+      "Models":[
+      	{
+           "Storage":"256 GB",
+           "Price":1199890,
+           "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/190522064608827433/190813070016630422.jpg@webp"
+      	},
+        {
+      	   "Storage":"512 GB",
+      	   "Price":1209890,
+           "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/190522064608827433/190813070016630422.jpg@webp"
+      	}
+      ]
+    },
+    {
+      "Generation":"MacBook Pro 16",
+      "Color": ["Space Grey", "Silver"],
+      "Models":[
+      	{
+      	   "Storage":"256 GB",
+      	   "Price":1004990,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/201111082126274451/201210170013462562.jpg@webp"
+      	},
+        {
+      	   "Storage":"512 GB",
+      	   "Price":1294990,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/201111082126274451/201210170013462562.jpg@webp"
+      	}
+      ]
+    }
+  ],
+  "applewatch": [
+    {
+      "Generation": "Apple Watch Series 6",
+      "Color": ["Gold", "Silver", "Space Gray", "Blue", "Red"],
+      "Models": [
+        {
+          "Size": "44mm",
+          "Price": 255990,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/200916101159599963/200916180016143649.jpg@webp"
+        },
+        {
+          "Size": "40mm",
+          "Price": 200990,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/200916101159599963/200916180016143649.jpg@webp"
+        }
+      ]
+    },
+    {
+      "Generation": "Apple Watch SE",
+      "Color" : ["Gold", "Silver", "Space Gray"],
+      "Models": [
+       {
+         "Size": "44mm",
+         "Price": 250990,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/200916101154614775/200917160019317120.jpg@webp"
+       },
+       {
+          "Size": "40mm",
+          "Price": 200990,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/200916101154614775/200917160019317120.jpg@webp"
+        }
+      ]
+    },
+    {
+      "Generation": "Apple Watch Series 5",
+      "Color" : ["Gold", "Silver", "Space Gray"],
+      "Models": [
+        {
+          "Size": "44mm",
+          "Price": 239453,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/190911081204708400/190917160009871351.jpg@webp"
+        },
+        {
+          "Size": "40mm",
+          "Price": 199453,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/190911081204708400/190917160009871351.jpg@webp"
+        }
+      ]
+    },
+    {
+      "Generation": "Apple Watch Series 4",
+      "Color": ["Gold", "Silver", "Space Gray"],
+      "Models": [
+        {
+          "Size": "44mm",
+          "Price": 240943,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/180913070923737604/180918160011144033.jpg@webp"
+        },
+        {
+          "Size": "40mm",
+          "Price": 201943,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/180913070923737604/180918160011144033.jpg@webp"
+        }
+      ]
+    },
+    {
+      "Generation": "Apple Watch Series 3",
+      "Color": ["Gold", "Silver", "Space Gray"],
+      "Models": [
+        {
+          "Size": "42mm",
+          "Price": 200000,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/180913070921918207/180918160008985119.jpg@webp"
+        },
+        {
+          "Size": "38mm",
+          "Price": 180000,
+          "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/180913070921918207/180918160008985119.jpg@webp"
+        }
+      ]
+    }
+  ],
+  "airpods": [
+    {
+      "Generation": "AirPods",
+      "Color": "White",
+      "Price": 82790,
+      "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/190320152143021432/190326150013235036.jpg@webp"
+    },
+    {
+      "Generation": "AirPods 2",
+      "Color": "White",
+      "Price": 99990,
+      "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/190320152143021432/190326150013235036.jpg@webp"
+    },
+    {
+      "Generation": "AirPods Pro",
+      "Color": "White",
+      "Price": 132790,
+      "img": "https://cdn0.ipoint.kz/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fit:230/bg:fff/plain/s3://catalog-products/191029074437584591/191029150010259990.jpg@webp"
+    }
+  ]
+}
